@@ -170,7 +170,7 @@ graph LR
 
 ### 📊 Profil Visiteurs
 
-![Visitor Count](https://profile-counter.glitch.me/jclunion/count.svg)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fjclunion%2Fjclunion.github.io%2Ftree%2Fmain&label=visiteurs&icon=github&color=%23198754&message=&style=flat&tz=UTC)
 
 **Merci de votre visite ! N'hésitez pas à explorer mes projets et à me contacter.**
 
