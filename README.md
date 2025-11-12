@@ -180,3 +180,246 @@ graph LR
 
 </div>
 
+---
+# 👋 Hello, I'm Jean-Claude LUNION
+
+
+<div align="center">
+
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Passionate+About+AI+and+Open+Source;20+Years+of+Experience;Linux+%26+Cloud+Specialist)
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-claude-lunion)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/saas692049)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@jclunion.fr)
+
+
+</div>
+
+
+---
+
+
+## 🚀 About Me
+
+
+Passionate about IT and technological innovation, I am a **Full Stack Developer** and **IT Support Specialist** with deep expertise in open source development and artificial intelligence. Currently **Lounge IT Advisor** at **SCC France** for **Safran Aircraft Engines** in Corbeil, I combine field experience with active technological monitoring.
+
+
+- 🔭 **Experience** : ~20 years in open source, ~2 years in AI
+- 🌱 **Continuous Learning** : Backend/Infra, DevOps, AI Engineering
+- 💼 **Entrepreneur** : Founder of LAKENA (IT Systems Consulting)
+- 🎯 **Goals** : Develop innovative software solutions and contribute to the open source ecosystem
+
+
+---
+
+
+## 💻 Technologies & Skills
+
+
+### Languages & Frameworks
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+
+### Artificial Intelligence
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
+
+
+### Tools & Platforms
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Windsurf IDE](https://img.shields.io/badge/Windsurf_IDE-00ADD8?style=for-the-badge&logo=windsurf&logoColor=white)
+
+
+### Infrastructure & DevOps
+![API](https://img.shields.io/badge/API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+
+---
+
+
+## 🎯 Featured Projects
+
+
+### 🛰️ [Spacetrack](https://spacetrack.jclunion.fr/iss)
+[![GitLab](https://img.shields.io/badge/GitLab-View_Repository-FC6D26?style=for-the-badge&logo=gitlab)](https://gitlab.com/saas692049/spacetrack)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=google-chrome)](https://spacetrack.jclunion.fr)
+
+
+**Real-time tracking web application for the International Space Station (ISS)**
+
+
+An interactive platform allowing you to visualize the ISS position in real-time, with advanced tracking and visible passage prediction features.
+
+
+**Technologies Used:**
+- 🚀 TypeScript & Node.js for backend
+- 🌐 HTML5/CSS3 for responsive interface
+- 🗺️ Space APIs (TLE data, orbital trajectories)
+- 📡 WebSocket integration for real-time updates
+- 🐧 Deployed on Linux infrastructure
+
+
+**Key Features:**
+- ✅ Real-time ISS position tracking
+- ✅ 2D/3D orbital visualization
+- ✅ Visible passage predictions by location
+- ✅ Telemetry data (altitude, speed, coordinates)
+- ✅ Cross-platform and responsive interface
+
+
+---
+
+
+## 📊 GitHub Statistics
+
+
+<div align="center">
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jclunion&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jclunion&layout=compact&theme=tokyonight&hide_border=true)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jclunion&theme=tokyonight&hide_border=true)
+
+
+</div>
+
+
+---
+
+
+## 🏆 Achievements & Certifications
+
+
+### Professional Projects
+- 🚀 **Spacetrack** - Satellite tracking application in production
+- 🏢 **SCC France** - IT Support & Infrastructure for Safran Aircraft Engines
+- 💡 **LAKENA** - IT Consulting and Services Company (2015-2019)
+
+
+### Training & Development
+- 📚 **Self-taught** - Continuous learning through practical projects
+- 🎓 Lycée Formeca Fessart (BTS Productique - 1992, apprenticeship)
+- 🔄 In Progress: Backend/Infrastructure Specialization
+- 🤖 AI Expertise: Ollama, ChatGPT, Gemini, Perplexity
+
+
+---
+
+
+## 📈 Open Source Contributions
+
+
+<div align="center">
+
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jclunion&theme=tokyo-night&hide_border=true)
+
+
+</div>
+
+
+---
+
+
+## 🎓 Learning Path
+
+
+```mermaid
+graph LR
+    A[Open Source 20 years] --> B[Artificial Intelligence 2+ years]
+    B --> C[Backend/Infra Specialist]
+    C --> D[AI Engineering]
+```
+
+
+**Development Skills:**
+- ✅ Full Stack Architecture
+- ✅ RESTful APIs & WebSocket
+- ✅ DevOps & CI/CD
+- ✅ Linux Infrastructure
+- ✅ Cloud Computing
+- 🔄 Machine Learning (in progress)
+- 🔄 Kubernetes & Containerization (in progress)
+
+
+---
+
+
+## 📫 Contact Me
+
+
+<div align="center">
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-claude-lunion)
+[![GitLab](https://img.shields.io/badge/GitLab-My_Projects-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/saas692049)
+[![Website](https://img.shields.io/badge/Website-Spacetrack-00ADD8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://spacetrack.jclunion.fr)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@jclunion.fr)
+
+
+**Location:** 📍 Brétigny-sur-Orge, Île-de-France, France
+
+
+</div>
+
+
+---
+
+
+## 💭 Favorite Quote
+
+
+> *"Learning is a treasure that will follow its owner everywhere."* - Chinese Proverb
+
+
+---
+
+
+## 🔗 Useful Links
+
+
+- 🛰️ **Spacetrack ISS Tracker** : [https://spacetrack.jclunion.fr/iss](https://spacetrack.jclunion.fr/iss)
+- 💼 **GitLab Repository** : [https://gitlab.com/saas692049/spacetrack](https://gitlab.com/saas692049/spacetrack)
+- 🏢 **SCC France** : [Company Page](https://france.scc.com)
+
+
+---
+
+
+<div align="center">
+
+
+### 📊 Profile Visitors
+
+
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fjclunion%2Fjclunion.github.io%2Ftree%2Fmain&label=visitors&icon=github&color=%23198754&message=&style=flat&tz=UTC)
+
+
+**Thank you for visiting! Feel free to explore my projects and contact me.**
+
+
+---
+
+
+*Last update: November 2025*
+
+
+</div>
